@@ -168,3 +168,107 @@ the Light of the Sun. FF13 Crystral
 
 Reaction Commands Damage: {:color #F0F00080}50%{:reset}'
   id: 15933
+- en: 'Kingdomkey S'
+  id: 1474
+- en: '{:color #F0F00080}Kingdomkey{:reset} Black and Read 
+
+Keyblade. Halves damage taken in critical 
+
+situations. {:color #F0F00080}Sabrinas Kingdomkey{:reset}'
+  id: 1475
+- en: 'Oathkeeper'
+  id: 1476
+- en: '{:color #F0F00080}Oathkeeper{:reset} This keyblade will magicly fit 
+
+its surroundings, no one has ever seen 
+
+his True Form.{:color #F0F00080}Lua script is a B...{:reset}'
+  id: 1477
+- en: 'Oblivion'
+  id: 1478
+- en: '{:color #F0F00080}Oblivion{:reset} This Blade will change its form 
+
+per World. No one had ever seen 
+
+its true Shape.{:color #F0F00080}Lua script is a B...{:reset}'
+  id: 1479
+- en: 'El Mariachi'
+  id: 15918
+- en: '{:color #F0F00080}HerosCrest{:reset} Increases the damage of the 
+
+finishiner in the air relative to the number
+
+of hits in the combo, like music in the Air.'
+  id: 15919
+- en: 'Lightsaber Green'
+  id: 15922
+- en: '{:color #F0F00080}Follow the Wind{:reset} Forged for a true Jedi. 
+
+This Lightsabers Core draws in nearby Orbs.
+
+May Your Heart be with you ?'
+  id: 15923
+- en: 'Gold Wing'
+  id: 15928
+- en: '{:color #F0F00080}Gull Wing{:reset} Increases damage done with 
+
+thunder based attacks by {:color #F0F00080}20%{:reset}.
+
+{:color #F0F00080}Look at it in Halloweentown{:reset}'
+  id: 15929
+- en: 'Valkyria'
+  id: 15930
+- en: '{:color #F0F00080}Rumbling Rose{:reset} Is Sharp as Hell, allowing 
+
+finishiner moves to be unleashed 
+
+successively.{:color #F0F00080}A Sabrina Costum <3{:reset}'
+  id: 15931
+- en: 'Wooden Keyblade'
+  id: 15942
+- en: '{:color #F0F00080}Mystery Abyss{:reset} Enhances magic to increase 
+
+damage dealt with blizzard-based 
+
+attacks by {:color #F0F00080}20%{:reset}.'
+  id: 15943
+- en: 'Lightsaber Red'
+  id: 15938
+- en: '{:color #F0F00080}Sleeping Lion{:reset} Sith Lightsaber with 
+
+strength and magic, increasing maximum 
+
+ground-based combos by 1.'
+  id: 15939
+- en: 'Lost Memory'
+  id: 20021
+- en: '{:color #F0F00080}Two Become One{:reset} A weapon of great strength
+
+and magic that has a special effect.
+
+You will not beleiveit but its a 50% Chance.'
+  id: 20022
+- en: 'NoName YX'
+  id: 15950
+- en: '{:color #F0F00080}Ultima Weapon{:reset}{:width 95} The Keyblade above all others.
+
+Increases MP restoration rate by {:color #F0F00080}75%{:reset}
+
+once all MP has been consumed.'
+  id: 15951
+- en: 'NoName OX'
+  id: 20023
+- en: '{:color #F0F00080}Winners Proof{:reset} A weapon of extraordinary 
+
+magic and great strength. Disables the 
+
+gaining of experience just like Xehanort...'
+  id: 20024
+- en: 'Chaos Ripper'
+  id: 1482
+- en: '{:color #F0F00080}Omega Weapon{:reset} Hey Edgelord has called, 
+
+he wants his Keyblade back, imidetly. 
+
+Otherwise hes telling your MOM.'
+  id: 1483
